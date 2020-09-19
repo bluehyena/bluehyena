@@ -41,4 +41,4 @@ Here are some ideas to get you started:
  - Playing and Watching Games
  - Listening Music and Singing
  - Drawing
- - Meeting Friends
+ - Exercise (I Love Badminton)
