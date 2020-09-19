@@ -26,12 +26,11 @@ Here are some ideas to get you started:
 
 ## 🎓 Education 🎓
  - KyungHee University, Dept. of Software Convergence (2020.03. ~ Recent)
- - Sin-Jung High School (2017.03. ~ 2020.01.)
- - Okdong Middle School (2014.03. ~ 2017.02.)
+ - Shin-Jung High School (2017.03. ~ 2020.01.)
   
 ## 📚 I can... 📚
  - Python
- - To be added...
+ - Hope to be added...
  
 ## 🚲 Activities 🚲
  - SWTUBE : creator department (2020.07. ~ Recent)
@@ -41,4 +40,4 @@ Here are some ideas to get you started:
  - Playing and Watching Games
  - Listening Music and Singing
  - Drawing
- - Exercise (I Love Badminton)
+ - Exercising
