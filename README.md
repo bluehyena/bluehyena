@@ -31,8 +31,8 @@ Here are some ideas to get you started:
  - Hope to be added...
  
 ## 🚲 Activities 🚲
- - SWTUBE : creator department (2020.07. ~ Recent)
- - SWTUBE : LOL eSports-Highlight-Extractor ; visual recognition 2 (2020.07 ~ Recent) 
+ - SWTUBE : Creator Department (2020.07. ~ Recent)
+ - SWTUBE : LOL eSports-Highlight-Extractor ; Visual Recognition 2 (2020.07 ~ Recent) 
 
 ## 🔭 I'm currently working on 🔭
  - Crawling with Python
