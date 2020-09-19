@@ -6,8 +6,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -35,6 +33,12 @@ Here are some ideas to get you started:
 ## 🚲 Activities 🚲
  - SWTUBE : creator department (2020.07. ~ Recent)
  - SWTUBE : LOL eSports-Highlight-Extractor ; visual recognition 2 (2020.07 ~ Recent) 
+
+## 🔭 I'm currently working on 🔭
+ - Crawling with Python
+
+## 🌱 I'm currently learning 🌱
+ - C/C++
 
 ## 📌 Hobby 📌
  - Playing and Watching Games
