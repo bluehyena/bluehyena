@@ -41,7 +41,7 @@ Here are some ideas to get you started:
  - C/C++
 
 ## 📌 Hobby 📌
- - Playing and Watching Games
- - Listening Music and Singing
+ - Games
+ - Listening Music
  - Drawing
  - Exercising
