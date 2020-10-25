@@ -35,9 +35,12 @@ Here are some ideas to get you started:
  - SWTUBE : LOL eSports-Highlight-Extractor ; Visual Recognition 2 (2020.07 ~ Recent) 
 
 ## 🔭 I'm currently working on 🔭
- - Crawling with Python
+ - Study Crawling with Python
+ - SWCON TermProject(MBTI)
+ - Personal Project(Flight Ticket)
 
 ## 🌱 I'm currently learning 🌱
+ - Python GUI
  - C/C++
 
 ## 📌 Hobby 📌
