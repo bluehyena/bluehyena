@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 # JunHyeok Lee / @bluehyena
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ssw03270)](https://github.com/anuraghazra/github-readme-stats)
+
 👋 Hi! Welcome to my Github profile!
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100007411215380)](https://www.facebook.com/profile.php?id=100007411215380)
