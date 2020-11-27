@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # JunHyeok Lee / @bluehyena
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bluehyena)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bluehyena&show_icons=true&theme=radical)
 
 👋 Hi! Welcome to my Github profile!
 
