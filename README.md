@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 -->
 
 # JunHyeok Lee / @bluehyena
-👋 Hi! Welcome to my Github profile!
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bluehyena&show_icons=true&theme=radical)
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100007411215380)](https://www.facebook.com/profile.php?id=100007411215380)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-a877f2?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/bluehyena_/)](https://www.instagram.com/bluehyena_/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bluehyena123@khu.ac.kr)](mailto:bluehyena123@khu.ac.kr)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bluehyena&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluehyena)](https://github.com/anuraghazra)
+
 
 ## 🎓 Education 🎓
  - KyungHee University, Dept. of Software Convergence (2020.03. ~ Recent)
