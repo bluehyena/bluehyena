@@ -31,20 +31,24 @@ Here are some ideas to get you started:
   
 ## 📚 I can... 📚
  - Python
+ - C
+ - Flutter / Dart
  - Hope to be added...
  
 ## 🚲 Activities 🚲
  - SWTUBE : Creator Department (2020.07. ~ Recent)
  - SWTUBE : LOL eSports-Highlight-Extractor ; Visual Recognition 2 (2020.07 ~ Recent) 
+ - KHUTHON : Video Content Text Summarizer (2020.11.13 ~ 2020.11.14)
+ - SWFestival : Flight Ticket Comparing System (2020.11.21 ~ 2020.11.28)
 
 ## 🔭 I'm currently working on 🔭
- - Study Crawling with Python
  - SWCON TermProject(MBTI)
- - Personal Project(Flight Ticket)
+ - Application Project with Flutter
 
 ## 🌱 I'm currently learning 🌱
- - Python GUI
+ - Flutter / Dart
  - C/C++
+ - Web(HTML & JavaScript)
 
 ## 📌 Hobby 📌
  - Games
