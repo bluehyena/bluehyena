@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bluehyena&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluehyena)](https://github.com/bluehyena)
 
 
 ## 🎓 Education 🎓
