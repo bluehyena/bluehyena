@@ -32,6 +32,7 @@ Here are some ideas to get you started:
   
 ## 📚 I can... 📚
  - Python
+ - HTML & CSS & JavaScript
  - C
  - Flutter / Dart
  - Hope to be added...
@@ -43,13 +44,14 @@ Here are some ideas to get you started:
  - SWFestival : Flight Ticket Comparing System (2020.11.21 ~ 2020.11.28)
 
 ## 🔭 I'm currently working on 🔭
- - SWCON TermProject(MBTI)
- - Application Project with Flutter
+ - Derivation of youth entrepreneurship support measures through regional commercial district analysis
+ - Crawling large amounts of data using Scrapy
 
 ## 🌱 I'm currently learning 🌱
- - Flutter / Dart
  - C/C++
- - Web(HTML & JavaScript)
+ - Web : Front - HTML & JS 
+ - Scrapy
+ - Pandas
 
 ## 📌 Hobby 📌
  - Games
