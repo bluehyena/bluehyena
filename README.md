@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 ## 🎓 Education 🎓
- - KyungHee University, Dept. of Software Convergence (2020.03. ~ Recent)
+ - KyungHee University, Dept. of Software Convergence, DataScience Track (2020.03. ~ Recent)
  - Shin-Jung High School (2017.03. ~ 2020.01.)
   
 ## 📚 I can... 📚
@@ -39,13 +39,14 @@ Here are some ideas to get you started:
  
 ## 🚲 Activities 🚲
  - SWTUBE : Creator Department (2020.07. ~ Recent)
- - SWTUBE : LOL eSports-Highlight-Extractor ; Visual Recognition 2 (2020.07 ~ Recent) 
+ - SWTUBE : LOL eSports-Highlight-Extractor ; Visual Recognition 2 (2020.07 ~ 2020.11.) 
  - KHUTHON : Video Content Text Summarizer (2020.11.13 ~ 2020.11.14)
  - SWFestival : Flight Ticket Comparing System (2020.11.21 ~ 2020.11.28)
+ - SWFestival : LOL eSports-Highlight-Extractor (2020.07 ~ 2020.11.)
 
 ## 🔭 I'm currently working on 🔭
  - Derivation of youth entrepreneurship support measures through regional commercial district analysis
- - Crawling large amounts of data using Scrapy
+ - Studying pandas for data mining & visualization
 
 ## 🌱 I'm currently learning 🌱
  - C/C++
