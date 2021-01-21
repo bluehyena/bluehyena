@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## 📚 I can... 📚
  - Python
  - HTML & CSS & JavaScript
- - C
+ - C / C++
  - Flutter / Dart
  - Hope to be added...
  
@@ -45,14 +45,14 @@ Here are some ideas to get you started:
  - SWFestival : LOL eSports-Highlight-Extractor (2020.07 ~ 2020.11.)
 
 ## 🔭 I'm currently working on 🔭
- - Derivation of youth entrepreneurship support measures through regional commercial district analysis
- - Studying pandas for data mining & visualization
+ - SWTUBE 2021 Special Project
+ - Studying pandas for data science & visualization
 
 ## 🌱 I'm currently learning 🌱
  - C/C++
- - Web : Front - HTML & JS 
- - Scrapy
  - Pandas
+ - TensorFlow
+ - Pytorch
 
 ## 📌 Hobby 📌
  - Games
