@@ -51,18 +51,7 @@ Here are some ideas to get you started:
  ![Jupyter](https://img.shields.io/badge/-JupyterNotebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=fff)
  ![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=fff)
  
-## 🚲 Activities 🚲
- - SWTUBE : Creator Department (2020.07. ~ Recent)
- - SWTUBE : LOL eSports-Highlight-Extractor ; Visual Recognition 2 (2020.07 ~ 2020.11.) 
- - KHUTHON : Video Content Text Summarizer (2020.11.13 ~ 2020.11.14)
- - SWFestival : Flight Ticket Comparing System (2020.11.21 ~ 2020.11.28)
- - SWFestival : LOL eSports-Highlight-Extractor (2020.07 ~ 2020.11.)
-
-## 🔭 I'm currently working on 🔭
- - SWTUBE 2021 Special Project
- - Studying pandas for data science & visualization
-
-## 🌱 I'm currently learning 🌱
+ ## 🌱 I'm currently learning 🌱
  - Machine Learning & DataScience
  
  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=fff)
@@ -78,6 +67,17 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 ![Javascript](https://img.shields.io/badge/-Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=fff)
+ 
+## 🚲 Activities 🚲
+ - SWTUBE : Creator Department (2020.07. ~ Recent)
+ - SWTUBE : LOL eSports-Highlight-Extractor ; Visual Recognition 2 (2020.07 ~ 2020.11.) 
+ - KHUTHON : Video Content Text Summarizer (2020.11.13 ~ 2020.11.14)
+ - SWFestival : Flight Ticket Comparing System (2020.11.21 ~ 2020.11.28)
+ - SWFestival : LOL eSports-Highlight-Extractor (2020.07 ~ 2020.11.)
+
+## 🔭 I'm currently working on 🔭
+ - SWTUBE 2021 Special Project
+ - Studying pandas for data science & visualization
 
 ## 📌 Hobby 📌
  - Games
